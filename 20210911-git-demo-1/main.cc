@@ -54,6 +54,7 @@
 
 int main()
 {
+	std::cout << "Игра \"Камни\". Правила: ..." << std::endl;
 
 
 	return 0;
